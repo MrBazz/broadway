@@ -25,3 +25,8 @@ h3 {
 h4 {
   font-size: 14px;
 }
+.header--foot-header {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
